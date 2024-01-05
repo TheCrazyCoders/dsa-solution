@@ -13,7 +13,7 @@ public class DuplicatesInArray {
                     hasDuplicates = true;
                     break; // Break to avoid printing the same duplicate multiple times
                 }
-            }
+            } 
         }
 
         if (!hasDuplicates) {
