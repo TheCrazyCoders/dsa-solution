@@ -30,7 +30,7 @@ public class MaxSubArraySum {
             }
 
         System.out.println("Max Sum:" +maxSum);
-    }
+    } 
     public static void main(String[] args) {
         int[] arr = {5,4,-1,7,8};
         printMaxSubarraySum(arr);
