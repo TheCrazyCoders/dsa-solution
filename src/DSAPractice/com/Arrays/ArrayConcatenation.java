@@ -12,7 +12,7 @@ public class ArrayConcatenation {
             //i =1,2,3
             ans[i] = nums[i];
             //i=4,5,6 i.e i+3, i++
-            ans[i+n] = nums[i];
+            ans[i+n] = nums[i];   //testing
 
         }
         return ans;
